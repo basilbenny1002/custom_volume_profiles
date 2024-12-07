@@ -235,7 +235,7 @@ def main(page: ft.Page):
 
     # Opens GitHub URL
     def open_github(e):
-        webbrowser.open("github.com")
+        webbrowser.open("https://github.com/basilbenny1002/custom_volume_profiles")
 
     # Updates popup button state
     def update_button(e):
